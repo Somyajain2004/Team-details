@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Rohit Sharma",
+    "role": "Opening Batsman",
+    "img": "assets/player1.jpg",
+    "strikeRate": 145.2,
+    "matches": 230,
+    "jersey": 45,
+    "best": "118 (vs SL)"
+  },
+  {
+    "name": "Virat Kohli",
+    "role": "Top-order Batsman",
+    "img": "assets/player2.jpg",
+    "strikeRate": 137.9,
+    "matches": 250,
+    "jersey": 18,
+    "best": "94* (vs WI)"
+  },
+  {
+    "name": "KL Rahul",
+    "role": "Wicketkeeper Batsman",
+    "img": "assets/player3.jpg",
+    "strikeRate": 142.7,
+    "matches": 110,
+    "jersey": 1,
+    "best": "112 (vs ENG)"
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "img": "assets/player4.jpg",
+    "strikeRate": 150.3,
+    "matches": 95,
+    "jersey": 33,
+    "best": "71* & 3/38 (vs AUS)"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "img": "assets/player5.jpg",
+    "strikeRate": 130.1,
+    "matches": 170,
+    "jersey": 8,
+    "best": "66* & 4/42 (vs NZ)"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "Fast Bowler",
+    "img": "assets/player6.jpg",
+    "strikeRate": 60.4,
+    "matches": 135,
+    "jersey": 93,
+    "best": "5/27 (vs SL)"
+  },
+  {
+    "name": "Mohammed Shami",
+    "role": "Fast Bowler",
+    "img": "assets/player7.jpg",
+    "strikeRate": 59.3,
+    "matches": 120,
+    "jersey": 11,
+    "best": "4/35 (vs SA)"
+  },
+  {
+    "name": "Shubman Gill",
+    "role": "Opening Batsman",
+    "img": "assets/player8.jpg",
+    "strikeRate": 138.0,
+    "matches": 65,
+    "jersey": 77,
+    "best": "126* (vs NZ)"
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "role": "Middle-order Batsman",
+    "img": "assets/player9.jpg",
+    "strikeRate": 175.6,
+    "matches": 85,
+    "jersey": 63,
+    "best": "117 (vs ENG)"
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "Leg Spinner",
+    "img": "assets/player10.jpg",
+    "strikeRate": 90.1,
+    "matches": 100,
+    "jersey": 3,
+    "best": "6/25 (vs AUS)"
+  },
+  {
+    "name": "Rishabh Pant",
+    "role": "Wicketkeeper Batsman",
+    "img": "assets/player11.jpg",
+    "strikeRate": 146.9,
+    "matches": 88,
+    "jersey": 17,
+    "best": "97 (vs AUS)"
+  }
+]
